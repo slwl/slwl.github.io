@@ -1,11 +1,11 @@
-baseURL = "https://nav.bioitee.com"
+baseURL = "https://slwl.github.io"
 languageCode = "zh-CN"
 title = "Bio & IT 网址导航 | Hugo 主题"
 theme = "WebStack-Hugo"
 preserveTaxonomyNames = true
 disablePathToLower = true
 hasCJKLanguage = true
-publishDir = "docs"
+publishDir = "public"
 
 
 [params]
