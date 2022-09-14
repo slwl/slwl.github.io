@@ -53,16 +53,16 @@
     #   description: 好看的皮囊千篇一律，有趣的灵魂万里挑一！
 
 
-- taxonomy: 科研办公
-  icon: fas fa-flask fa-lg
-  list:
-    - term: 生物信息
-      links:
-        - title: NCBI
-          logo: ncbi.jpg
-          url: https://www.ncbi.nlm.nih.gov/
-          description: National Center for Biotechnology Information.
-    #     - title: Bioconda
+# - taxonomy: 科研办公
+#   icon: fas fa-flask fa-lg
+#   list:
+#     - term: 生物信息
+#       links:
+#         - title: NCBI
+#           logo: ncbi.jpg
+#           url: https://www.ncbi.nlm.nih.gov/
+#           description: National Center for Biotechnology Information.
+#     #     - title: Bioconda
     #       logo: bioconda.jpg
     #       url: https://anaconda.org/bioconda/
     #       description: "Bioconda :: Anaconda.org."
@@ -128,15 +128,15 @@
     #       description: 免费在线作图、实时协作。
         
 
-- taxonomy: 悠闲娱乐
-  icon: fas fa-film fa-lg
-  list:
-    - term: 影音视频
-      links:
-        - title: 腾讯视频
-          logo: 腾讯视频.png
-          url: http://v.qq.com/
-          description: 腾讯视频，海量视频在线观看。
+# - taxonomy: 悠闲娱乐
+#   icon: fas fa-film fa-lg
+#   list:
+#     - term: 影音视频
+#       links:
+#         - title: 腾讯视频
+#           logo: 腾讯视频.png
+#           url: http://v.qq.com/
+#           description: 腾讯视频，海量视频在线观看。
     #     - title: 优酷
     #       logo: 优酷.png
     #       url: http://www.youku.com/
@@ -177,15 +177,15 @@
     #       description: 台服 AVA 战地之王。
    
       
-- taxonomy: 素材资源
-  icon: far fa-folder-open fa-lg
-  list:
-    - term: 在线资源
-      links:
-        - title: 喵老师的绘本故事
-          logo: https://api.iowen.cn/favicon/www.html-js.com.png
-          url: https://www.html-js.com/music
-          description: https://www.html-js.com/music.
+# - taxonomy: 素材资源
+#   icon: far fa-folder-open fa-lg
+#   list:
+#     - term: 在线资源
+#       links:
+#         - title: 喵老师的绘本故事
+#           logo: https://api.iowen.cn/favicon/www.html-js.com.png
+#           url: https://www.html-js.com/music
+#           description: https://www.html-js.com/music.
     #     - title: 阿里云盘
     #       logo: 阿里云盘.png
     #       url: https://www.aliyundrive.com/
@@ -419,6 +419,10 @@
   list: 
     - term: 在线工具
       links:
+        - title: 在线白板
+          url: https://www.tldraw.com/
+          logo: https://api.iowen.cn/favicon/www.tldraw.com.png
+          description: 一个网页白板，支持浏览器记录         
         - title: 在线时钟
           url: https://edui123.com/clock/
           logo: https://api.iowen.cn/favicon/edui123.com.png
@@ -427,14 +431,14 @@
           url: https://edui123.com/time/
           logo: https://api.iowen.cn/favicon/edui123.com.png
           description: 分秒计时器          
-        - title: 在线白板
-          url: https://www.tldraw.com/
-          logo: https://api.iowen.cn/favicon/www.tldraw.com.png
-          description: 一个网页白板，支持浏览器记录 
         - title: 万年历
           url: http://yun.rili.cn/wnl/index.html
           logo: https://api.iowen.cn/favicon/yun.rili.cn.png
           description: 简洁无广告在线万年历           
+         - title: 即时工具
+          url: https://www.67tool.com/
+          logo: https://api.iowen.cn/favicon/www.67tool.com.png
+          description: 在线工具集合站   
     #     - title: Affinity Designer
     #       url: https://affinity.serif.com/
     #       logo: AffinityDesigner.png
@@ -606,15 +610,15 @@
     #       description: Discover the world's most beautiful places at every opened tab.
 
 
-- taxonomy: 资讯学习
-  icon: fas fa-pencil-alt fa-lg
-  list: 
-    - term: 资讯书籍
-      links:
-        - title: 微信读书
-          url: https://weread.qq.com/
-          logo: 微信读书.jpg
-          description: 微信读书电脑版。
+# - taxonomy: 资讯学习
+#   icon: fas fa-pencil-alt fa-lg
+#   list: 
+#     - term: 资讯书籍
+#       links:
+#         - title: 微信读书
+#           url: https://weread.qq.com/
+#           logo: 微信读书.jpg
+#           description: 微信读书电脑版。
     #     - title: 书栈网
     #       url: https://www.bookstack.cn/
     #       logo: 书栈网.jpg
