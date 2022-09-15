@@ -128,15 +128,15 @@
     #       description: 免费在线作图、实时协作。
         
 
-# - taxonomy: 悠闲娱乐
-#   icon: fas fa-film fa-lg
-#   list:
-#     - term: 影音视频
-#       links:
-#         - title: 腾讯视频
-#           logo: 腾讯视频.png
-#           url: http://v.qq.com/
-#           description: 腾讯视频，海量视频在线观看。
+ - taxonomy: 悠闲娱乐
+   icon: fas fa-film fa-lg
+   list:
+     - term: 影音视频
+       links:
+         - title: 腾讯视频
+           logo: 腾讯视频.png
+           url: http://v.qq.com/
+           description: 腾讯视频，海量视频在线观看。
     #     - title: 优酷
     #       logo: 优酷.png
     #       url: http://www.youku.com/
