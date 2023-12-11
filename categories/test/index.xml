@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Test on L1nSn0w&#39;s Blog</title>
+        <title>Test on Slwl Blog</title>
         <link>https://iyz.me/categories/test/</link>
-        <description>Recent content in Test on L1nSn0w&#39;s Blog</description>
+        <description>Recent content in Test on Slwl Blog</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
-        <copyright>L1nSn0w</copyright>
+        <copyright>Slwl</copyright>
         <lastBuildDate>Wed, 09 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://iyz.me/categories/test/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Chinese Test</title>
         <link>https://iyz.me/p/test-chinese/</link>
