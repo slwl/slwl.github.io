@@ -7,7 +7,17 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>Slwl</copyright>
-        <lastBuildDate>Wed, 09 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://iyz.me/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 17 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://iyz.me/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Hello World Hugo</title>
+        <link>https://iyz.me/p/hello-world-hugo/</link>
+        <pubDate>Sun, 17 Dec 2023 00:00:00 +0000</pubDate>
+        
+        <guid>https://iyz.me/p/hello-world-hugo/</guid>
+        <description>&lt;img src="https://cdn.jsdelivr.net/gh/slwl/gitimg@main/uPic/kerensa-pickett-HP66uuNKIHM-unsplash.jpg" alt="Featured image of post Hello World Hugo" /&gt;&lt;h2 id=&#34;hello-world-hugo&#34;&gt;Hello World Hugo&lt;/h2&gt;
+&lt;p&gt;Write by Typora, puclic by Vercel!&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Chinese Test</title>
         <link>https://iyz.me/p/test-chinese/</link>
         <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
@@ -116,34 +126,6 @@
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-html&#34; data-lang=&#34;html&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;.emoji {
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  font-family: Apple Color Emoji, Segoe UI Emoji, NotoColorEmoji, Segoe UI Symbol, Android Emoji, EmojiSymbols;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;}&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
-        </item>
-        <item>
-        <title></title>
-        <link>https://iyz.me/p/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>https://iyz.me/p/</guid>
-        <description>&lt;p&gt;author = &amp;ldquo;XSW&amp;rdquo;
-title = &amp;ldquo;Emoji Support&amp;rdquo;
-date = &amp;ldquo;2023-12-17&amp;rdquo;
-description = &amp;ldquo;Hello World Hugo!&amp;rdquo;
-categories = [
-&amp;ldquo;Hugo&amp;rdquo;
-]
-tags = [
-&amp;ldquo;Hugo&amp;rdquo;,
-]&lt;/p&gt;
-&lt;p&gt;image = &lt;img src=&#34;https://cdn.jsdelivr.net/gh/slwl/gitimg@main/uPic/michiel-annaert-vEuy8n4DmSc-unsplash.jpg&#34;
-	
-	
-	
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;hello world hugo&#34;
-	
-	
-&gt;&lt;/p&gt;
-</description>
         </item>
         <item>
         <title>Links</title>

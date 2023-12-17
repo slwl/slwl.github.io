@@ -7,7 +7,15 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>Slwl</copyright>
-        <lastBuildDate>Wed, 09 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://iyz.me/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 17 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://iyz.me/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Hugo</title>
+        <link>https://iyz.me/categories/hugo/</link>
+        <pubDate>Sun, 17 Dec 2023 00:00:00 +0000</pubDate>
+        
+        <guid>https://iyz.me/categories/hugo/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>Test</title>
         <link>https://iyz.me/categories/test/</link>
         <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>

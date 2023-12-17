@@ -3,15 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://iyz.me/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
+    <lastmod>2023-12-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://iyz.me/categories/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
+    <lastmod>2023-12-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://iyz.me/p/test-chinese/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
+    <loc>https://iyz.me/p/hello-world-hugo/</loc>
+    <lastmod>2023-12-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://iyz.me/tags/hugo/</loc>
+    <lastmod>2023-12-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://iyz.me/categories/hugo/</loc>
+    <lastmod>2023-12-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://iyz.me/post/</loc>
+    <lastmod>2023-12-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://iyz.me/tags/</loc>
+    <lastmod>2023-12-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://iyz.me/p/test-chinese/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://iyz.me/categories/test/</loc>
@@ -31,11 +43,6 @@
   </url><url>
     <loc>https://iyz.me/p/emoji-support/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://iyz.me/tags/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://iyz.me/p/</loc>
   </url><url>
     <loc>https://iyz.me/links/</loc>
   </url><url>

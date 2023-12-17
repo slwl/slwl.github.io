@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Hugo on IYZ.ME</title>
+        <link>https://iyz.me/tags/hugo/</link>
+        <description>Recent content in Hugo on IYZ.ME</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>Slwl</copyright>
+        <lastBuildDate>Sun, 17 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://iyz.me/tags/hugo/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Hello World Hugo</title>
+        <link>https://iyz.me/p/hello-world-hugo/</link>
+        <pubDate>Sun, 17 Dec 2023 00:00:00 +0000</pubDate>
+        
+        <guid>https://iyz.me/p/hello-world-hugo/</guid>
+        <description>&lt;img src="https://cdn.jsdelivr.net/gh/slwl/gitimg@main/uPic/kerensa-pickett-HP66uuNKIHM-unsplash.jpg" alt="Featured image of post Hello World Hugo" /&gt;&lt;h2 id=&#34;hello-world-hugo&#34;&gt;Hello World Hugo&lt;/h2&gt;
+&lt;p&gt;Write by Typora, puclic by Vercel!&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
